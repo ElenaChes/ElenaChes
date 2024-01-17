@@ -29,6 +29,7 @@ Projects I've done in my own free time as a hobby or to automate processes in ot
 
 - [Blender Unity Settings for Voxel models](https://github.com/ElenaChes/Blender-Unity-Settings-Voxel-models#blender-unity-settings-for-voxel-models). <sub>[`Blender add-on`|`Python`]</sub>
 - [Url Shortener](https://github.com/ElenaChes/Express-Js--URL-shortener). <sub>[`NodeJs`|`ExpressJs`|`MongoDB`|`API access`]</sub>
+- [Audio Device switcher](https://github.com/ElenaChes/Batch--Audio-Device-switcher). <sub>[`Batch`|`Cscript`|`SoundVolumeView`]</sub>
 
 ### 🎓 College
 
