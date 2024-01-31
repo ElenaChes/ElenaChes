@@ -2,7 +2,12 @@
 
 Programmer, gamer, artist.<br>
 Software practical engineer back to college to get a software engineer degree.<br><br>
-In recent years working mainly in Unity (C#), and Node js.<br>
+This month:<br>
+![Overall](https://wakapi.dev/api/badge/Len/interval:month?label=Overall)
+<br>
+![JavaScript](https://wakapi.dev/api/badge/Len/interval:month&language:JavaScript?label=JavaScript)
+![C#](https://wakapi.dev/api/badge/Len/interval:month&language:C%23?label=C%23)
+![Java](https://wakapi.dev/api/badge/Len/interval:month&language:Java?label=Java)
 
 ## Current projects
 
