@@ -5,7 +5,8 @@
 Programmer, gamer, artist.<br>
 Software practical engineer back to college to get a software engineer degree.<br>
 
-[<img  src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Len/interval:30_days&color=816fb6&label=last%2030%20days">](## "Wakapi stats")<br>
+[<img  src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Len/interval:30_days&color=816fb6&label=last%2030%20days">](## "Wakapi stats")
+<br><br>
 
 ## Current projects
 
