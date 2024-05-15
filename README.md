@@ -3,7 +3,7 @@
 [<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Most%20Used%20Languages&layout=compact&langs_count=6&hide=Plain%20Text,misc">](## "Wakapi stats")
 
 Programmer, gamer, artist.<br>
-Software practical engineer back to college to get a software engineer degree.<br>
+Practical software engineer back to college to get a software engineer degree.<br>
 
 [<img  src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Len/interval:30_days&color=816fb6&label=last%2030%20days">](## "Wakapi stats")
 <br><br>
