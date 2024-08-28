@@ -29,6 +29,8 @@ Practical software engineer back to college to get a software engineer degree.<b
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Discord chatbot using a HuggingFace conversational model. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | `HuggingFace` |
   [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") ]</sub>
 
+<br> 
+
 ## Published projects
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Most%20Used%20Languages%20in%20Repos&layout=donut-vertical">
