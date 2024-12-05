@@ -6,7 +6,7 @@ Programmer, gamer, artist.<br>
 Practical software engineer turned software engineer.<br>
 
 [<img  src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Len/interval:30_days&color=816fb6&label=last%2030%20days">](## "Wakapi stats")
-<br><br>
+<br><br><br>
 
 ## Current projects
 
@@ -52,10 +52,10 @@ Code examples and stripped down projects.
 
 Homework and assignments for college.
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "ExpressJs webapp") [Bio project (Web app)](https://github.com/RoeiHarfi/Node-Js-Express-bio-project). <sub>[ `Webapp` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ejs/ffffff">](## "Ejs") |
-  `Logs` | `PDF export` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "ExpressJs webapp") [Bio project (Web app)](https://github.com/RoeiHarfi/Node-Js-Express-bio-project). <sub>[ `Webapp` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ejs/ffffff">](## "Ejs") | `Logs` | `PDF export` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Image scanner](https://github.com/ElenaChes/Python-Image-scanner). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/python/ffffff">](## "Python") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/opencv/ffffff">](## "OpenCV") | `Image processing` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Chroma key App](https://github.com/ElenaChes/Python-Chroma-key-App). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/python/ffffff">](## "Python") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/opencv/ffffff">](## "OpenCV") | `Image processing` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "ExpressJs webapp") [Dishcraft (Web app)](https://github.com/GrandaddyShmax/Dishcraft-WebApp). <sub>[ `Webapp` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ejs/ffffff">](## "Ejs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") | `API requests` | `AI integration` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "ExpressJs webapp") [MVC Web app](https://github.com/ElenaChes/Node-Js-Express-MVC-Web-App). <sub>[ `Webapp` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ejs/ffffff">](## "Ejs") |
   [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=cs">](## "C# App") [Remote File Editor](https://github.com/ElenaChes/Csharp-Remote-Text-File-Editor--Client-Server). <sub>[ `File editor` | `Client-Server` | `C#` | `Console` ]</sub>
