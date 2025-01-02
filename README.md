@@ -46,8 +46,8 @@ Projects I've done in my own free time as a hobby or to automate processes in ot
 
 Code examples and stripped down projects.
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App example") [API app](https://github.com/ElenaChes/Express-Js-API). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | `API access` ]</sub>
 - [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-fly-dot-io-logo-icon-3030140.png?f=webp&w=15">](## "Fly.io deploy examples") [Deploy App: code examples](https://github.com/ElenaChes/Deploy-App--code-examples). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/docker/ffffff">](## "Dockerfile") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/flydotio/ffffff">](## "Fly.io") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/toml/ffffff">](## "toml") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/githubactions/ffffff">](## "Github Actions") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App example") [API app](https://github.com/ElenaChes/Express-Js-API). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | `API access` ]</sub>
 
 ### 🎓 College
 
@@ -68,4 +68,4 @@ College final projects.<br>
 (in layman's terms - projects that got me my diplomas)
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=swift">](## "iOS App") [LIAM Keyboard](https://github.com/RoeiHarfi/Accessible-Keyboard). <sub>[ `App` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/swift/ffffff">](## "Swift") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/xcode/ffffff">](## "xCode") ]</sub>
-- [<img height="15px;" src="https://skillicons.dev/icons?i=java">](## "Java Game") [Neverending Platformer](https://github.com/ElenaChes/Java-SQL-Game--Neverending-Platformer). <sub>[ `Game` | `Randomly generated` | `Level creation` | `Java` | `SQL` | `Microsoft Access` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=java">](## "Java Game") [Neverending Platformer](https://github.com/ElenaChes/Java-SQL-Game--Neverending-Platformer). <sub>[ `Game` | `Procedurally generated` | `Level creation` | `Java` | `SQL` | `Microsoft Access` ]</sub>
