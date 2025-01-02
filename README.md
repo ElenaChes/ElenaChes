@@ -22,10 +22,10 @@ Practical software engineer turned software engineer.<br>
 
 ### 🪫 On hold or slower projects
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=androidstudio">](## "Android App") Android alarm clock app with additional features. <sub>[ `App` | `Java` | `XML` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/androidstudio/ffffff">](## "Android Studio") ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=androidstudio">](## "Android App") Android alarm clock app with additional features. <sub>[ `App` | `Java` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/xml/ffffff">](## "XML") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/androidstudio/ffffff">](## "Android Studio") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=unity">](## "Unity Game") Unity top down strategy game. <sub>[ `Game` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/unity/ffffff">](## "Unity") | `C#` | `MagicaVoxel` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/blender/ffffff">](## "Blender") ]</sub>
 - [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-trello-9-722650.png?f=webp&w=15">](# "Trello power-up") Trello power-up to tag/categorize cards. <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/trello/ffffff">](## "Trello power-up") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") ]</sub>
-- [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Discord chatbot using a HuggingFace conversational model. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | `HuggingFace` |
+- [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Discord chatbot using a HuggingFace conversational model. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/Hugging Face/ffffff">](## "huggingface") |
   [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") ]</sub>
 
 ## Published projects
@@ -46,7 +46,8 @@ Projects I've done in my own free time as a hobby or to automate processes in ot
 
 Code examples and stripped down projects.
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App") [API app](https://github.com/ElenaChes/Express-Js-API). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | `API access` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App example") [API app](https://github.com/ElenaChes/Express-Js-API). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | `API access` ]</sub>
+- [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-fly-dot-io-logo-icon-3030140.png?f=webp&w=15">](## "Fly.io deploy examples") [Deploy App: code examples](https://github.com/ElenaChes/Deploy-App--code-examples). <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/docker/ffffff">](## "Dockerfile") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/flydotio/ffffff">](## "Fly.io") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/toml/ffffff">](## "toml") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/githubactions/ffffff">](## "Github Actions") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") ]</sub>
 
 ### 🎓 College
 
