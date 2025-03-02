@@ -12,21 +12,23 @@ Practical software engineer turned software engineer.<br>
 
 ### 🛠 Actively working on
 
+- [<img height="15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">](## "Google Gemini") Image Reader - a Discord bot that transcribes images using Gemini. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/googlegemini/ffffff">](## "Google Gemini") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Multipurpose Discord bot with several systems that help with productivity, reminders, documentation and more...<br>
-  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B; Still figuring out how I want to share that repo. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") |
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B; Planning to post the repo as a "Multipurpose bot template" and a collection of API integration code examples.<br>
+    &#x200B; &#x200B; &#x200B; &#x200B; &#x200B; <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") |
   [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/googlecalendar/ffffff">](## "Google Calendar") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/googledrive/ffffff">](## "Google Drive") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/notion/ffffff">](## "Notion") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/express/ffffff">](## "ExpressJs") | `API access` ]</sub>
 
 ### ⏳ Upcoming and planned projects
 
-- none atm.
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/151674099?s=48&v=4">](## "Ollama") A personalized assistant using Ollama. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ollama/ffffff">](## "Ollama") | `Assistant` ]</sub>
 
 ### 🪫 On hold or slower projects
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=androidstudio">](## "Android App") Android alarm clock app with additional features. <sub>[ `App` | `Java` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/xml/ffffff">](## "XML") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/androidstudio/ffffff">](## "Android Studio") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=unity">](## "Unity Game") Unity top down strategy game. <sub>[ `Game` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/unity/ffffff">](## "Unity") | `C#` | `MagicaVoxel` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/blender/ffffff">](## "Blender") ]</sub>
 - [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-trello-9-722650.png?f=webp&w=15">](# "Trello power-up") Trello power-up to tag/categorize cards. <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/trello/ffffff">](## "Trello power-up") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") ]</sub>
-- [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Discord chatbot using a HuggingFace conversational model. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/Hugging Face/ffffff">](## "huggingface") |
-  [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Discord chatbot using a HuggingFace conversational model. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/huggingface/ffffff">](## "Hugging Face") |
+  [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/mongodb/ffffff">](## "MongoDB") ]</sub>  
 
 ## Published projects
 
