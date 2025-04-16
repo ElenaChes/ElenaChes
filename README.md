@@ -1,6 +1,6 @@
 ## About
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Most%20Used%20Languages&layout=compact&langs_count=6&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
+[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20Lately&layout=compact&langs_count=6&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
 
 Programmer, gamer, artist.<br>
 Practical software engineer turned software engineer.<br>
@@ -12,6 +12,7 @@ Practical software engineer turned software engineer.<br>
 
 ### 🛠 Actively working on
 
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") Mobile journaling app. <sub>[ `App` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/react/ffffff">](## "React") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/javascript/ffffff">](## "JavaScript") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/typescript/ffffff">](## "TypeScript") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/capacitor/ffffff">](## "Capacitor") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ionic/ffffff">](## "Ionic")
 - [<img height="15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">](## "Google Gemini") Image Reader - a Discord bot that transcribes images using Gemini. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/googlegemini/ffffff">](## "Google Gemini") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Multipurpose Discord bot with several systems that help with productivity, reminders, documentation and more...<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B; Planning to post the repo as a "Multipurpose bot template" and a collection of API integration code examples.<br>
@@ -20,11 +21,12 @@ Practical software engineer turned software engineer.<br>
 
 ### ⏳ Upcoming and planned projects
 
-- [<img height="15px;" src="https://avatars.githubusercontent.com/u/151674099?s=48&v=4">](## "Ollama") A personalized assistant using Ollama. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ollama/ffffff">](## "Ollama") | `Assistant` ]</sub>
+- None atm.
 
 ### 🪫 On hold or slower projects
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=androidstudio">](## "Android App") Android alarm clock app with additional features. <sub>[ `App` | `Java` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/xml/ffffff">](## "XML") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/androidstudio/ffffff">](## "Android Studio") ]</sub>
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/151674099?s=48&v=4">](## "Ollama") A personalized assistant using Ollama. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/ollama/ffffff">](## "Ollama") | `Assistant` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=androidstudio">](## "Android App") Android alarm clock app with additional features. <sub>[ `App` | `Java` | `XML` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/androidstudio/ffffff">](## "Android Studio") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=unity">](## "Unity Game") Unity top down strategy game. <sub>[ `Game` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/unity/ffffff">](## "Unity") | `C#` | `MagicaVoxel` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/blender/ffffff">](## "Blender") ]</sub>
 - [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-trello-9-722650.png?f=webp&w=15">](# "Trello power-up") Trello power-up to tag/categorize cards. <sub>[ [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/trello/ffffff">](## "Trello power-up") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") Discord chatbot using a HuggingFace conversational model. <sub>[ `Bot` | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/nodedotjs/ffffff">](## "NodeJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/discord/ffffff">](## "DiscordJs") | [<img style="height:15px;width:15px;" src="https://cdn.simpleicons.org/huggingface/ffffff">](## "Hugging Face") |
@@ -32,7 +34,7 @@ Practical software engineer turned software engineer.<br>
 
 ## Published projects
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Most%20Used%20Languages%20in%20Repos&layout=donut-vertical">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20in%20Public%20Repos&layout=donut-vertical">
 
 ### ⭐ Personal
 
