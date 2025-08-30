@@ -77,6 +77,14 @@ Code examples and stripped down projects.
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App example") [API app](https://github.com/ElenaChes/Express-Js-API).
   <sub>[ `Example` | `API` | `ExpressJs` | `NodeJs` ]</sub>
 
+### 💻 Course Projects
+
+Code from following along courses.
+
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App") [NodeJs practice #1](https://github.com/ElenaChes/node-js-practice-1) - Udemy course [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp).<br>
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
+  <sub>[ `App` | `API` | `NodeJs` | `ExpressJs` | `MongoDB` | `Pug` | `Stripe` | `Leaflet` | `Brevo` ]</sub>
+
 ### 🎓 Academic Work
 
 Homework and assignments for college.
