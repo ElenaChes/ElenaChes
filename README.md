@@ -1,6 +1,6 @@
 ## About
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20Lately&layout=compact&langs_count=6&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
+[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20(this%20year)&layout=compact&langs_count=8&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
 
 Programmer, gamer, artist.<br>
 Practical Engineer<sup><sub>\*</sub></sup> turned B.Sc. Software Engineer.<br>
