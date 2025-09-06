@@ -81,9 +81,12 @@ Code examples and stripped down projects.
 
 Code from following along courses.
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App") [NodeJs practice #1](https://github.com/ElenaChes/node-js-practice-1) - Udemy course [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp).<br>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App") [NodeJs practice #1](https://github.com/ElenaChes/node-js-practice-1) (Webapp) - Udemy course [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `App` | `API` | `NodeJs` | `ExpressJs` | `MongoDB` | `Pug` | `Stripe` | `Leaflet` | `Brevo` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "NodeJs App") [NodeJs practice #2](https://github.com/ElenaChes/node-js-practice-2) (CLI Tool) - Udemy course [Advanced NodeJS: Level up your NodeJS skill In 2025](https://www.udemy.com/course/leveling-up-your-skill-as-a-nodejs-developer).<br>
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
+  <sub>[ `CLI app` | `NodeJs` | `Boilerplate tool` | `Code generator` ]</sub>  
 
 ### 🎓 Academic Work
 
