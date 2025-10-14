@@ -1,16 +1,21 @@
 ## About
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20This%20Year&layout=compact&langs_count=8&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
+[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&icon_color=2F855A&text_color=ffffff&custom_title=Top%20Languages%20(last%20year)&layout=compact&langs_count=6&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
 
-Programmer, gamer, artist.<br>
+Programmer, gamer, artist.
 
-[<img height="30px;" src="https://skillicons.dev/icons?i=nodejs" />](## "Node.js")
-[<img height="30px;" src="https://skillicons.dev/icons?i=express" />](## "Express.js")
-[<img height="30px;" src="https://skillicons.dev/icons?i=mongodb" />](## "MongoDB")
-[<img height="30px;" src="https://skillicons.dev/icons?i=python" />](## "Python")
-[<img height="30px;" src="https://skillicons.dev/icons?i=java" />](## "Java")<br>
-[<img  src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Len/interval:30_days&color=816fb6&label=last%2030%20days">](## "Wakapi stats")
-<br><br><br><br>
+<p align="center" >
+  <img height="30px;" src="https://skillicons.dev/icons?i=nodejs" />
+  <img height="30px;" src="https://skillicons.dev/icons?i=express" />
+  <img height="30px;" src="https://skillicons.dev/icons?i=mongodb" />
+  <img height="30px;" src="https://skillicons.dev/icons?i=python" />
+  <img height="30px;" src="https://skillicons.dev/icons?i=java" /><br>
+  
+  <img src="https://wakapi.dev/api/badge/Len/Len/interval:week?label=Week">
+  <img src="https://wakapi.dev/api/badge/Len/Len/interval:month?color=816fb6&label=Month">
+  <img src="https://wakapi.dev/api/badge/Len/Len/interval:year?color=3178c6&label=Year">
+</p>
+<br>
 
 ## In Development
 
@@ -117,3 +122,9 @@ Homework and assignments for college.
   <sub>[ `App` | `Apple` | `Swift` | `Xcode` | `iOS` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=java">](## "Java Game") [Neverending Platformer](https://github.com/ElenaChes/Java-SQL-Game--Neverending-Platformer).
   <sub>[ `Game` | `Procedurally generated`| `Java` | `Level creation` | `SQL` | `Microsoft Access` ]</sub>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ElenaChes/ElenaChes/main?label=Last%20updated&color=1A202C&logo=github">
+</p>
