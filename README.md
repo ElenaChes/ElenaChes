@@ -66,7 +66,7 @@ Projects I've done in my own free time as a hobby or to automate processes in ot
   <sub>[ `API` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Image Scanner - Standalone](https://github.com/ElenaChes/python-image-scanner-standalone).
   <sub>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sub>
-- [<img height="15px;" src="https://skillicons.dev/icons?i=blender">](## "Blender add-on") [Blender Unity Settings for Voxel models](https://github.com/ElenaChes/blender-unity-settings-for-voxel-models).
+- [<img height="15px;" src="https://skillicons.dev/icons?i=blender">](## "Blender add-on") [Blender Unity Settings for Voxel models](https://github.com/ElenaChes/blender-unity-settings-voxel-models).
   <sub>[ `Add-on` | `Blender` | `Python` ]</sub>
 - [<img height="15px;" src="https://www.awicons.com/free-icons/download/system-icons/pleasant-icons-by-harwen-zhang/png/128/MS-DOS-Batch-File.png">](## "Batch Script") [Audio Device switcher](https://github.com/ElenaChes/batch-audio-device-switcher).
   <sub>[ `Script` | `Batch` | `Cscript` | `SoundVolumeView` ]</sub>
