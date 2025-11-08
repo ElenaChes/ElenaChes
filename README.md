@@ -20,8 +20,6 @@ Programmer, gamer, artist.
 
 ### 🛠 Actively Working On
 
-- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Mobile journaling app**.
-  <sub>[ `App` | `Android` | `Ionic` | `Capacitor` | `React` | `JavaScript` | `TypeScript` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">](## "Google Gemini") **Image Reader** - a Discord bot that transcribes images using Gemini.
   <sub>[ `Discord Bot` | `Discord.js` | `AI` | `Google Gemini` | `Node.js` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Multipurpose Discord bot** with several systems that help with productivity, reminders, documentation and more...<br>
@@ -32,7 +30,10 @@ Programmer, gamer, artist.
 
 ### ⏳ Upcoming and Planned Projects
 
-- None atm.
+- [<img height="15px;" src="https://github.com/ElenaChes.png?size=15">](## "ElenaChes") Portfolio website.
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") Production-grade version of [Stitched - Journaling App](https://github.com/ElenaChes/ionic-react-journaling-app) using Push Notifications instead of Local Notifications.<br>
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
+  <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
 
 ### 🪫 On Hold or Slower Projects
 
@@ -56,12 +57,15 @@ Projects that aren't being worked on anymore and will need serious re-planning i
 
 ## Published Projects
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20in%20Public%20Repos&layout=donut-vertical">
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20in%20Public%20Repos&layout=donut-vertical">
 
 ### ⭐ Personal Tools & Projects
 
 Projects I've done in my own free time as a hobby or to automate processes in other projects.
 
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") [Stitched - Journaling App (Prototype)](https://github.com/ElenaChes/ionic-react-journaling-app).<br>
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
+  <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Url Shortener](https://github.com/ElenaChes/expressjs-url-shortener).
   <sub>[ `API` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Image Scanner - Standalone](https://github.com/ElenaChes/python-image-scanner-standalone).
