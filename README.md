@@ -90,12 +90,15 @@ Code examples and stripped down projects.
 
 Code from following along courses.
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Node.js practice #1](https://github.com/ElenaChes/node-js-practice-1) (Webapp) - Udemy course [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp).<br>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Node.js practice #1](https://github.com/ElenaChes/nodejs-practice-1) (Webapp) - Udemy course [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `App` | `API` | `Node.js` | `Express.js` | `MongoDB` | `Pug` | `Stripe` | `Leaflet` | `Brevo` ]</sub>
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Node.js practice #2](https://github.com/ElenaChes/node-js-practice-2) (CLI Tool) - Udemy course [Advanced NodeJS: Level up your NodeJS skill In 2025](https://www.udemy.com/course/leveling-up-your-skill-as-a-nodejs-developer).<br>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Node.js practice #2](https://github.com/ElenaChes/nodejs-practice-2) (CLI Tool) - Udemy course [Advanced NodeJS: Level up your NodeJS skill In 2025](https://www.udemy.com/course/leveling-up-your-skill-as-a-nodejs-developer).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `CLI app` | `Node.js` | `Boilerplate tool` | `Code generator` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=aws">](## "Serverless App") [Serverless practice](https://github.com/ElenaChes/sls-practice) (Microservices & AWS) - Udemy course [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework).<br>
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
+  <sub>[ `Serverless` | `Node.js` | `AWS` | `DynamoDB` | `Auth0` ]</sub>  
 
 ### 🎓 Academic Work
 
