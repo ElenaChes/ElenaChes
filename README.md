@@ -20,8 +20,6 @@ Programmer, gamer, artist.
 
 ### 🛠 Actively Working On
 
-- [<img height="15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">](## "Google Gemini") **Image Reader** - a Discord bot that transcribes images using Gemini.
-  <sub>[ `Discord Bot` | `Discord.js` | `AI` | `Google Gemini` | `Node.js` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Multipurpose Discord bot** with several systems that help with productivity, reminders, documentation and more...<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `Discord Bot` | `Discord.js` | `API` | `Google Calendar` | `Google Drive` | `Notion` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
@@ -63,6 +61,9 @@ Projects that aren't being worked on anymore and will need serious re-planning i
 
 Projects I've done in my own free time as a hobby or to automate processes in other projects.
 
+- [<img height="15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">](## "Google Gemini") [Discord.js Image-Reader Bot](https://github.com/ElenaChes/discordjs-image-reader).<br>
+  &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
+  <sub>[ `Discord Bot` | `Discord.js` | `AI` | `Google Gemini` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") [Stitched - Journaling App (Prototype)](https://github.com/ElenaChes/ionic-react-journaling-app).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
@@ -98,7 +99,7 @@ Code from following along courses.
   <sub>[ `CLI app` | `Node.js` | `Boilerplate tool` | `Code generator` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=aws">](## "Serverless App") [Serverless practice](https://github.com/ElenaChes/sls-practice) (Microservices & AWS) - Udemy course [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `Serverless` | `Node.js` | `AWS` | `DynamoDB` | `Auth0` ]</sub>  
+  <sub>[ `Serverless` | `Node.js` | `AWS` | `DynamoDB` | `Auth0` ]</sub>
 
 ### 🎓 Academic Work
 
