@@ -1,6 +1,6 @@
 ## About
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&icon_color=2F855A&text_color=ffffff&custom_title=Top%20Languages%20(last%20year)&layout=compact&langs_count=6&hide=Plain%20Text,misc,unknown">](## "Wakapi stats")
+[<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Len&api_domain=wakapi.dev&bg_color=1A202C&title_color=A899E6&icon_color=2F855A&text_color=ffffff&custom_title=Top%20Languages%20(last%20year)&layout=compact&langs_count=6&hide=Plain%20Text,misc,unknown">](## "Wakapi stats (github-readme-stats)")
 
 Programmer, gamer, artist.
 
@@ -14,7 +14,8 @@ Programmer, gamer, artist.
   <img src="https://wakapi.dev/api/badge/Len/Len/interval:month?color=816fb6&label=Month">
   <img src="https://wakapi.dev/api/badge/Len/Len/interval:year?label=Year">
 </p>
-<br>
+
+<sub>Some images are broken? [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) is having problems.</sub>
 
 ## In Development
 
@@ -37,6 +38,8 @@ Programmer, gamer, artist.
 
 Projects that are not currently a priority or not seeing frequent updates, but might see the light of day eventually.
 
+- [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Discord activity** using Discord Social SDK.
+  <sub>[ `Game` | `JavaScript` | `Express.js` | `Node.js` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=unity">](## "Unity Game") **Unity top down strategy game**.
   <sub>[ `Game` | `Unity` | `C#` | `Blender` | `MagicaVoxel` ]</sub>
 - [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-trello-9-722650.png?f=webp&w=15">](# "Trello power-up") **Trello power-up** to tag/categorize cards.
@@ -55,7 +58,7 @@ Projects that aren't being worked on anymore and will need serious re-planning i
 
 ## Published Projects
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20in%20Public%20Repos&layout=donut-vertical">
+[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaChes&bg_color=1A202C&title_color=A899E6&text_color=ffffff&custom_title=Top%20Languages%20in%20Public%20Repos&layout=donut-vertical">](## "Repos stats (github-readme-stats)")
 
 ### ⭐ Personal Tools & Projects
 
