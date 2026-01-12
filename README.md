@@ -21,6 +21,7 @@ Programmer, gamer, artist.
 
 ### 🛠 Actively Working On
 
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Android alarm clock app** with additional features. <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Java` | `Capacitor` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Multipurpose Discord bot** with several systems that help with productivity, reminders, documentation and more...<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `Discord Bot` | `Discord.js` | `API` | `Google Calendar` | `Google Drive` | `Notion` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
@@ -29,7 +30,6 @@ Programmer, gamer, artist.
 
 ### ⏳ Upcoming and Planned Projects
 
-- [<img height="15px;" src="https://github.com/ElenaChes.png?size=15">](## "ElenaChes") Portfolio website.
 - [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") Production-grade version of [Stitched - Journaling App](https://github.com/ElenaChes/ionic-react-journaling-app) using Push Notifications instead of Local Notifications.<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
