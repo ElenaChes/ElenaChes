@@ -8,8 +8,8 @@ Programmer, gamer, artist.
   <img height="30px;" src="https://skillicons.dev/icons?i=nodejs" />
   <img height="30px;" src="https://skillicons.dev/icons?i=express" />
   <img height="30px;" src="https://skillicons.dev/icons?i=mongodb" />
-  <img height="30px;" src="https://skillicons.dev/icons?i=python" />
-  <img height="30px;" src="https://skillicons.dev/icons?i=java" /><br>
+  <img height="30px;" src="https://skillicons.dev/icons?i=javascript" />
+  <img height="30px;" src="https://skillicons.dev/icons?i=typescript" /><br>
   
   <img src="https://wakapi.dev/api/badge/Len/Len/interval:month?color=816fb6&label=Month">
   <img src="https://wakapi.dev/api/badge/Len/Len/interval:year?label=Year">
@@ -21,10 +21,11 @@ Programmer, gamer, artist.
 
 ### 🛠 Actively Working On
 
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nextjs">](## "Next.js app") **MVC** for a stealth startup. <sub>[ `Next.js` | `TypeScript` | `Tailwind CSS` | `MongoDB` | `Stripe` ]</sub>
 - [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Android alarm clock app** with additional features. <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Java` | `Capacitor` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Multipurpose Discord bot** with several systems that help with productivity, reminders, documentation and more...<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `Discord Bot` | `Discord.js` | `API` | `Google Calendar` | `Google Drive` | `Notion` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Discord Bot` | `Discord.js` | `API` | `Google Calendar` | `Google Drive` | `Notion` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
   - See the bot's template in [Modular Discord.js Bot Template](https://github.com/ElenaChes/modular-discordjs-bot-template).
   - Planning to post a collection of code snippets from its API.
 
@@ -32,7 +33,7 @@ Programmer, gamer, artist.
 
 - [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") Production-grade version of [Stitched - Journaling App](https://github.com/ElenaChes/ionic-react-journaling-app) using Push Notifications instead of Local Notifications.<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
 
 ### 🪫 On Hold or Slower Projects
 
@@ -66,10 +67,10 @@ Projects I've done in my own free time as a hobby or to automate processes in ot
 
 - [<img height="15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">](## "Google Gemini") [Discord.js Image-Reader Bot](https://github.com/ElenaChes/discordjs-image-reader).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `Discord Bot` | `Discord.js` | `AI` | `Google Gemini` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Discord Bot` | `Discord.js` | `AI` | `Google Gemini` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") [Stitched - Journaling App (Prototype)](https://github.com/ElenaChes/ionic-react-journaling-app).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Url Shortener](https://github.com/ElenaChes/expressjs-url-shortener).
   <sub>[ `API` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Image Scanner - Standalone](https://github.com/ElenaChes/python-image-scanner-standalone).
@@ -96,13 +97,13 @@ Code from following along courses.
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Node.js practice #1](https://github.com/ElenaChes/nodejs-practice-1) (Webapp) - Udemy course [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `App` | `API` | `Node.js` | `Express.js` | `MongoDB` | `Pug` | `Stripe` | `Leaflet` | `Brevo` ]</sub>
+  <sup>[ `App` | `API` | `Node.js` | `Express.js` | `MongoDB` | `Pug` | `Stripe` | `Leaflet` | `Brevo` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Node.js practice #2](https://github.com/ElenaChes/nodejs-practice-2) (CLI Tool) - Udemy course [Advanced NodeJS: Level up your NodeJS skill In 2025](https://www.udemy.com/course/leveling-up-your-skill-as-a-nodejs-developer).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `CLI app` | `Node.js` | `Boilerplate tool` | `Code generator` ]</sub>
+  <sup>[ `CLI app` | `Node.js` | `Boilerplate tool` | `Code generator` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=aws">](## "Serverless App") [Serverless practice](https://github.com/ElenaChes/sls-practice) (Microservices & AWS) - Udemy course [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework).<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
-  <sub>[ `Serverless` | `Node.js` | `AWS` | `DynamoDB` | `Auth0` ]</sub>
+  <sup>[ `Serverless` | `Node.js` | `AWS` | `DynamoDB` | `Auth0` ]</sup>
 
 ### 🎓 Academic Work
 
@@ -115,7 +116,7 @@ Homework and assignments for college.
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Chroma Key App](https://github.com/ElenaChes/python-chroma-key-app).
   <sub>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "Express.js webapp") [Dishcraft (Web app)](https://github.com/GrandaddyShmax/Dishcraft-WebApp).
-  <sub>[ `Webapp` | `Express.js` | `Ejs` | `API requests` | `AI` | `Node.js` | `MongoDB` ]</sub>
+  <sub>[ `Webapp` | `Express.js` | `Ejs` | `Tailwind CSS` | `API requests` | `AI` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "Express.js webapp") [MVC Web app](https://github.com/ElenaChes/nodejs-express-mvc-web-app).
   <sub>[ `Webapp` | `Express.js` | `Ejs` | `Node.js` | `MongoDB` ]</sub>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=cs">](## "C# App") [Remote File Editor](https://github.com/ElenaChes/csharp-remote-text-file-editor-client-server).
