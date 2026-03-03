@@ -13,16 +13,18 @@ Programmer, gamer, artist.
   
   <img src="https://wakapi.dev/api/badge/Len/Len/interval:month?color=816fb6&label=Month">
   <img src="https://wakapi.dev/api/badge/Len/Len/interval:year?label=Year">
+  <br>
+  <img src="https://wakapi.dev/api/badge/Len/Len/interval:last_year?color=5681ce&label=Last%20Year">
 </p>
 
-<sub>Some images are broken? [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) is having problems.</sub>
+<sup>Some images are broken? [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) is having problems.</sup>
 
 ## In Development
 
 ### 🛠 Actively Working On
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nextjs">](## "Next.js app") **MVC** for a stealth startup. <sub>[ `Next.js` | `TypeScript` | `Tailwind CSS` | `MongoDB` | `Stripe` ]</sub>
-- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Android alarm clock app** with additional features. <sub>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Java` | `Capacitor` ]</sub>
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nextjs">](## "Next.js app") **MVP** for a stealth startup. <sup>[ `Next.js` | `TypeScript` | `Tailwind CSS` | `MongoDB` | `Stripe` ]</sup>
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Android alarm clock app** with additional features. <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Java` | `Capacitor` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Multipurpose Discord bot** with several systems that help with productivity, reminders, documentation and more...<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sup>[ `Discord Bot` | `Discord.js` | `API` | `Google Calendar` | `Google Drive` | `Notion` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
@@ -31,7 +33,7 @@ Programmer, gamer, artist.
 
 ### ⏳ Upcoming and Planned Projects
 
-- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") Production-grade version of [Stitched - Journaling App](https://github.com/ElenaChes/ionic-react-journaling-app) using Push Notifications instead of Local Notifications.<br>
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") Polished version of [Stitched - Journaling App](https://github.com/ElenaChes/ionic-react-journaling-app) using Push Notifications instead of Local Notifications.<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
 
@@ -40,22 +42,22 @@ Programmer, gamer, artist.
 Projects that are not currently a priority or not seeing frequent updates, but might see the light of day eventually.
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Discord activity** using Discord Social SDK.
-  <sub>[ `Game` | `JavaScript` | `Express.js` | `Node.js` ]</sub>
-- [<img height="15px;" src="https://skillicons.dev/icons?i=unity">](## "Unity Game") **Unity top down strategy game**.
-  <sub>[ `Game` | `Unity` | `C#` | `Blender` | `MagicaVoxel` ]</sub>
-- [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-trello-9-722650.png?f=webp&w=15">](# "Trello power-up") **Trello power-up** to tag/categorize cards.
-  <sub>[ `Add-on` | `Trello` | `Node.js` ]</sub>
+  <sup>[ `Game` | `JavaScript` | `Express.js` | `Node.js` ]</sup>
 
 ### 🚫 Cancelled Projects
 
 Projects that aren't being worked on anymore and will need serious re-planning if they ever get continued.
 
+- [<img height="15px;" src="https://skillicons.dev/icons?i=unity">](## "Unity Game") **Unity top down strategy game**.
+  <sup>[ `Game` | `Unity` | `C#` | `Blender` | `MagicaVoxel` ]</sup> <img src="https://img.shields.io/badge/Reason-scope_too_large-1A202C">
+- [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-trello-9-722650.png?f=webp&w=15">](# "Trello power-up") **Trello power-up** to tag/categorize cards.
+  <sup>[ `Add-on` | `Trello` | `Node.js` ]</sup> <img src="https://img.shields.io/badge/Reason-not_a_priority-1A202C">
 - [<img height="15px;" src="https://avatars.githubusercontent.com/u/151674099?s=48&v=4">](## "Ollama") **A personalized assistant** using Ollama.
-  <sub>[ `Bot` | `Assistant` | `Ollama` ]</sub>
+  <sup>[ `Bot` | `Assistant` | `Ollama` ]</sup> <img src="https://img.shields.io/badge/Reason-not_a_priority-1A202C">
 - [<img height="15px;" src="https://skillicons.dev/icons?i=androidstudio">](## "Android App") **Android alarm clock app** with additional features.
-  <sub>[ `App` | `Android` | `Java` | `Android Studio` | `XML` ]</sub>
+  <sup>[ `App` | `Android` | `Java` | `Android Studio` | `XML` ]</sup> <img src="https://img.shields.io/badge/Reason-switched_stack-1A202C">
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Discord chatbot** using a HuggingFace conversational model.
-  <sub>[ `Bot` | `Discord.js` | `Hugging Face` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Bot` | `Discord.js` | `Hugging Face` | `Node.js` | `MongoDB` ]</sup> <img src="https://img.shields.io/badge/Reason-not_a_priority-1A202C">
 
 ## Published Projects
 
@@ -72,24 +74,24 @@ Projects I've done in my own free time as a hobby or to automate processes in ot
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Capacitor` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App") [Url Shortener](https://github.com/ElenaChes/expressjs-url-shortener).
-  <sub>[ `API` | `Express.js` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `API` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Image Scanner - Standalone](https://github.com/ElenaChes/python-image-scanner-standalone).
-  <sub>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sub>
+  <sup>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=blender">](## "Blender add-on") [Blender Unity Settings for Voxel models](https://github.com/ElenaChes/blender-unity-settings-voxel-models).
-  <sub>[ `Add-on` | `Blender` | `Python` ]</sub>
+  <sup>[ `Add-on` | `Blender` | `Python` ]</sup>
 - [<img height="15px;" src="https://www.awicons.com/free-icons/download/system-icons/pleasant-icons-by-harwen-zhang/png/128/MS-DOS-Batch-File.png">](## "Batch Script") [Audio Device switcher](https://github.com/ElenaChes/batch-audio-device-switcher).
-  <sub>[ `Script` | `Batch` | `Cscript` | `SoundVolumeView` ]</sub>
+  <sup>[ `Script` | `Batch` | `Cscript` | `SoundVolumeView` ]</sup>
 
 ### 🔬 Templates & Code Examples
 
 Code examples and stripped down projects.
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") [Modular Discord.js Bot Template](https://github.com/ElenaChes/modular-discordjs-bot-template).
-  <sub>[ `Discord bot` | `Template` | `Discord.js` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Discord bot` | `Template` | `Discord.js` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://cdn.iconscout.com/icon/free/png-512/free-fly-dot-io-logo-icon-3030140.png?f=webp&w=15">](## "Fly.io deploy examples") [Deploy App: code examples](https://github.com/ElenaChes/deploy-app-code-examples).
-  <sub>[ `Example` | `Deploy` | `Fly.io` | `Dockerfile` | `Github Actions` | `TOML` | `Node.js` ]</sub>
+  <sup>[ `Example` | `Deploy` | `Fly.io` | `Dockerfile` | `Github Actions` | `TOML` | `Node.js` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=nodejs">](## "Node.js App example") [API App](https://github.com/ElenaChes/expressjs-api).
-  <sub>[ `Example` | `API` | `Express.js` | `Node.js` ]</sub>
+  <sup>[ `Example` | `API` | `Express.js` | `Node.js` ]</sup>
 
 ### 💻 Course Projects
 
@@ -110,31 +112,31 @@ Code from following along courses.
 Homework and assignments for college.
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "Express.js webapp") [Bio Project (Web app)](https://github.com/RoeiHarfi/Node-Js-Express-bio-project).
-  <sub>[ `Webapp` | `Express.js` | `Ejs` | `Node.js` | `PDF export` | `Logs` ]</sub>
+  <sup>[ `Webapp` | `Express.js` | `Ejs` | `Node.js` | `PDF export` | `Logs` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Image Scanner](https://github.com/ElenaChes/python-image-scanner).
-  <sub>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sub>
+  <sup>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=python">](## "Python") [Chroma Key App](https://github.com/ElenaChes/python-chroma-key-app).
-  <sub>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sub>
+  <sup>[ `App` | `Image processing` | `OpenCV` | `Python` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "Express.js webapp") [Dishcraft (Web app)](https://github.com/GrandaddyShmax/Dishcraft-WebApp).
-  <sub>[ `Webapp` | `Express.js` | `Ejs` | `Tailwind CSS` | `API requests` | `AI` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Webapp` | `Express.js` | `Ejs` | `Tailwind CSS` | `API requests` | `AI` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=express">](## "Express.js webapp") [MVC Web app](https://github.com/ElenaChes/nodejs-express-mvc-web-app).
-  <sub>[ `Webapp` | `Express.js` | `Ejs` | `Node.js` | `MongoDB` ]</sub>
+  <sup>[ `Webapp` | `Express.js` | `Ejs` | `Node.js` | `MongoDB` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=cs">](## "C# App") [Remote File Editor](https://github.com/ElenaChes/csharp-remote-text-file-editor-client-server).
-  <sub>[ `App` | `File editor` | `Client-Server` | `C#` | `Console` ]</sub>
+  <sup>[ `App` | `File editor` | `Client-Server` | `C#` | `Console` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=c">](## "C 3D Graphics") [Interactive 3D Animation](https://github.com/ElenaChes/c-graphics-basic-3d-interactive-animation).
-  <sub>[ `App` | `3D graphics` | `3D animation` | `C` ]</sub>
+  <sup>[ `App` | `3D graphics` | `3D animation` | `C` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=c">](## "C 2D Graphics") [Painting Tool](https://github.com/ElenaChes/c-graphics-2d-painting-tool).
-  <sub>[ `App` | `2D graphics` | `C` ]</sub>
+  <sup>[ `App` | `2D graphics` | `C` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=js">](## "Javascript webapp") [Matrix Calculator](https://github.com/ElenaChes/javascript-html-matrix-calculator).
-  <sub>[ `Webapp` | `JavaScript` | `HTML` ]</sub>
+  <sup>[ `Webapp` | `JavaScript` | `HTML` ]</sup>
 
 **Final College Projects**<br>
 (in layman's terms - projects that got me my diplomas)
 
 - [<img height="15px;" src="https://skillicons.dev/icons?i=swift">](## "iOS App") [LIAM Keyboard](https://github.com/RoeiHarfi/Accessible-Keyboard).
-  <sub>[ `App` | `Apple` | `Swift` | `Xcode` | `iOS` ]</sub>
+  <sup>[ `App` | `Apple` | `Swift` | `Xcode` | `iOS` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=java">](## "Java Game") [Neverending Platformer](https://github.com/ElenaChes/java-sql-game-neverending-platformer).
-  <sub>[ `Game` | `Procedurally generated`| `Java` | `Level creation` | `SQL` | `Microsoft Access` ]</sub>
+  <sup>[ `Game` | `Procedurally generated`| `Java` | `Level creation` | `SQL` | `Microsoft Access` ]</sup>
 
 ---
 
