@@ -23,8 +23,6 @@ Programmer, gamer, artist.
 
 ### 🛠 Actively Working On
 
-- [<img height="15px;" src="https://skillicons.dev/icons?i=nextjs">](## "Next.js app") **MVP** for a stealth startup. <sup>[ `Next.js` | `TypeScript` | `Tailwind CSS` | `MongoDB` | `Stripe` ]</sup>
-- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Android alarm clock app** with additional features. <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Java` | `Capacitor` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Multipurpose Discord bot** with several systems that help with productivity, reminders, documentation and more...<br>
   &#x200B; &#x200B; &#x200B; &#x200B; &#x200B;
   <sup>[ `Discord Bot` | `Discord.js` | `API` | `Google Calendar` | `Google Drive` | `Notion` | `Express.js` | `Node.js` | `MongoDB` ]</sup>
@@ -41,6 +39,8 @@ Programmer, gamer, artist.
 
 Projects that are not currently a priority or not seeing frequent updates, but might see the light of day eventually.
 
+- [<img height="15px;" src="https://skillicons.dev/icons?i=nextjs">](## "Next.js app") **MVP** for a stealth startup. <sup>[ `Next.js` | `TypeScript` | `Tailwind CSS` | `MongoDB` | `Stripe` ]</sup>
+- [<img height="15px;" src="https://avatars.githubusercontent.com/u/3171503?s=48&v=4">](## "Ionic app") **Android alarm clock app** with additional features. <sup>[ `Mobile App` | `Ionic` | `React` | `TypeScript` | `Java` | `Capacitor` ]</sup>
 - [<img height="15px;" src="https://skillicons.dev/icons?i=discord">](## "Discord Bot") **Discord activity** using Discord Social SDK.
   <sup>[ `Game` | `JavaScript` | `Express.js` | `Node.js` ]</sup>
 
